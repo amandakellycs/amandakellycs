@@ -1,5 +1,5 @@
-
-- Hi, I'm Amanda Kelly, a Computer Engineering student.  
+##Hi, I'm Amanda Kelly
+- Computer Engineering student.  
 - I enjoy studying and am passionate about technology.  
 - I'm interested in programming and software development.  
 - Currently studying data science with a focus on machine learning.  
